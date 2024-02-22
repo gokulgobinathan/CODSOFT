@@ -1,2 +1,2 @@
-# CODSOFT
+# CODSOFT-DS
 Data Science
